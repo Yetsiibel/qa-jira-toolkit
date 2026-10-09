@@ -1,0 +1,17 @@
+{
+  "name": "qa-jira-toolkit",
+  "version": "1.0.0",
+  "description": "Toolkit de QA para Jira con Claude (Cowork): casos de prueba desde historias de usuario con notas de inconsistencias, registro de resultados, bugs vinculados a casos con cambio de estados, seguimiento de informes UAT y cambios en historias con avisos a Teams, reporte de estado de épica, respuestas a informes y consultas al funcional.",
+  "author": {
+    "name": "Yetsibel Monasterios"
+  },
+  "keywords": [
+    "qa",
+    "jira",
+    "test-cases",
+    "bugs",
+    "uat",
+    "claude",
+    "cowork"
+  ]
+}
