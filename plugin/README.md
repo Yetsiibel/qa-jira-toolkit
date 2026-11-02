@@ -11,7 +11,7 @@ Plugin de Cowork para QA de un proyecto (PROJ) en Jira.
 | `seguimiento-informes` | Detecta Informes UAT y comentarios nuevos en las épicas indicadas, analiza lo reportado contra la UH y la doc. técnica y sugiere qué es bug, consulta o no es error. |
 | `registrar-resultado` | Registra Prueba OK / NO OK con el formato de evidencia del equipo, mueve el CP y ofrece crear el bug. |
 | `estado-epica` | Reporte de estado de una épica listo para Teams (bloqueadas, bugs, alertas). |
-| `responder-informe` | Redacta y publica la respuesta punto por punto a un Informe UAT. |
+| `responder-informe` | Todo en uno para Informes UAT: detecta informes y comentarios nuevos, analiza cada punto (bug, consulta, no es error, FDA, mejora) revisando toda la épica, y redacta y publica la respuesta en el hilo del comentario. Funciona también sola, sin el resto del plugin. |
 | `consultas-funcional` | Junta las notas de ambigüedad pendientes, arma el mensaje al funcional y aplica las respuestas. |
 | `jira-base` | Base común: acceso a Jira (conector Atlassian o navegador integrado por la restricción de IP), IDs de campos y snippets de API. |
 
