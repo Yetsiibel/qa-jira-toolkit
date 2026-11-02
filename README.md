@@ -17,7 +17,7 @@ Kit de QA para equipos que trabajan con **Jira** y **Claude (Cowork)**: diseña 
 | `reportar-bug` | Redacta el bug con nomenclatura y secciones del equipo, clasifica componente/etiquetas/ambiente/prioridad, detecta los casos afectados comparando con la evidencia, bloquea la historia y los casos y deja comentarios. |
 | `seguimiento-informes` | Detecta informes UAT, comentarios de otros usuarios y cambios en historias; analiza cada punto contra la historia y sugiere si es bug, consulta o no es error. |
 | `estado-epica` | Reporte de estado de una épica listo para Teams (bloqueadas, bugs, alertas). |
-| `responder-informe` | Redacta la respuesta punto por punto a un informe UAT. |
+| `responder-informe` | Todo en uno para informes UAT: detecta informes y comentarios nuevos, analiza cada punto (bug, consulta, no es error, FDA, mejora) revisando toda la épica, y redacta y publica la respuesta en el hilo del comentario. Se puede compartir sola, sin el resto del plugin. |
 | `consultas-funcional` | Junta las ambigüedades pendientes y arma el mensaje al analista funcional; luego aplica las respuestas. |
 | `jira-base` | Base común: acceso a Jira, IDs de campos y snippets de API. |
 
